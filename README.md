@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>EDA_pandas_profiling</td>
-    <td> Visualize data with Pandas profiling report</td>\
+    <td> Visualize data by generating Pandas profiling report (profile_report.html) </td>\
   </tr>
 </table>
   
