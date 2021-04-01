@@ -4,11 +4,25 @@
   <h3> Description </h3>
  This project analyses past transaction data on URA private property prices to identify which types of property can garner highest net returns for potential inestors.
   <hr>
-  <h3> Codes </h3>
-  <ul>
-  <li> fetch_geocoord_MRT_mall.ipynb: Retrieve and output geocoordinates of various MRT stations and shopping malls in SG for subsequent use </li>
-  <li> clean_data.ipynb: Clean URA's private property transaction data from the past five years and calculate distance to nearest MRT station, shopping mall and CBD </li>
-  </ul>
+  <h3> Codes Description </h3>
+  <table style="width:100%">
+  <tr>
+    <th>Code</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>fetch_geocoord_MRT_mall</td>
+    <td>Retrieve and output geocoordinates of various MRT stations and shopping malls in SG for subsequent use</td>
+  </tr>
+  <tr>
+    <td>clean_data</td>
+    <td> Clean URA's private property transaction data from the past five years and calculate distance to nearest MRT station, shopping mall and CBD</td>\
+  </tr>
+  <tr>
+    <td>EDA_pandas_profiling</td>
+    <td> Visualize data with Pandas profiling report</td>\
+  </tr>
+</table>
   
   <hr>
   <h3> Notes </h3>
