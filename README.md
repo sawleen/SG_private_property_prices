@@ -28,6 +28,6 @@
   
   <hr>
   <h3> Notes </h3>
-  This was part of a group project I did for my part-time Masters. Although all codes uploaded here were written by me, credits to the team for the discussion and insights on analytical perspectives too :)
+  This was part of a group project I did for my part-time Masters. All codes uploaded here were written by me, but I will like to thank my team for the discussion and insights too.
   </body>
 </html>
