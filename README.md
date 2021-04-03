@@ -28,6 +28,6 @@
   
   <hr>
   <h3> Notes </h3>
-  This was part of a group project I did for my part-time Masters. I wrote and shared these codes for my group mates' reference. I will like to thank my team for the discussion and insights contributed too.
+  This was part of a group project I did for my part-time Masters. I wrote and shared these codes for my group mates' reference. Thanks to my team for the discussion and insights contributed too :)
   </body>
 </html>
