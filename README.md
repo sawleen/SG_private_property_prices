@@ -3,7 +3,7 @@
   <h1> Analysis of private property prices in Singapore (2016-2021) </h1>
   <hr>
   <h3> Description </h3>
- This project analyses past transaction data on URA private property prices to identify which types of property can garner highest net returns for potential inestors.
+ This project analyses past transaction data on URA private property prices to identify which types of property can garner highest net returns for potential investors.
   <hr>
   
   <h3> Codes Description </h3>
@@ -25,7 +25,9 @@
     <td> Visualize data by generating Pandas profiling report (profile_report.html) </td>\
   </tr>
 </table>
-  
+  <br>
+  Check out my final visualization at this URL:
+  https://public.tableau.com/shared/NS92JG5B4?:display_count=y&:origin=viz_share_link
   <hr>
   <h3> Notes </h3>
   This was part of a group project I did for my part-time Masters. I wrote and shared these codes for my group mates' reference. Thanks to my team for the discussion and insights contributed too :)
